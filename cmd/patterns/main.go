@@ -19,5 +19,5 @@ func main() {
 	fmt.Println("Pattern 5 - Inverted Pyramid")
 	patterns.PrintPattern5(5)
 	fmt.Println("Pattern 6 - Inverted Numbered Pyramid")
-	patterns.PrintPattern10(6)
+	patterns.PrintPattern22(6)
 }
